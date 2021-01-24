@@ -1,9 +1,9 @@
 
 ### Hi There 👋
 
-My name is XXX (XXX).
+My name is SYAVINGCSX (XXX).
 
-- :computer: 日常整理AWS中文文档 国内请访问 https://awschina.wiki/ 
+- :computer: 日常整理AWS中文文档[Github](https://github.com/allinaws) 国内用户请访问 https://awschina.wiki/  
 - :gift: 
 - :art: 
 - :snowman: 
